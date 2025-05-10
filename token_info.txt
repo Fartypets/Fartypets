@@ -1,0 +1,9 @@
+Token Name: Fartypets
+Ticker: FTP
+Network: Solana (SPL)
+Decimals: 9
+Total Supply: 1,000,000,000 FTP
+Circulating Supply: 1,000,000,000 FTP
+Mint Authority: Revoked
+Liquidity: Locked
+Launch Platform: Raydium
